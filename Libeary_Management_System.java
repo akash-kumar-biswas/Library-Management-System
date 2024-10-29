@@ -59,9 +59,6 @@ class DVD implements Item{
         System.out.println(duration);
         System.out.println();
     }
-    public int f(){
-        return duration;
-    }
 }
 
 class Library{
