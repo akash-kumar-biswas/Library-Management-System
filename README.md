@@ -1,4 +1,4 @@
 # MyJavaProject
-Here, I've included all of my java projects.
+This is a basic console based Library Management System.
 <br>
-Author - Akash Biswas
+This project is coded in Java and coveres the basic Object-Oriented Programming concepts.
